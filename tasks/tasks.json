@@ -1,0 +1,17 @@
+[
+  {
+    "level": "easy",
+    "goal": "handle cpu spike",
+    "correct_action": "scale"
+  },
+  {
+    "level": "medium",
+    "goal": "fix memory leak",
+    "correct_action": "restart"
+  },
+  {
+    "level": "hard",
+    "goal": "handle multiple failures",
+    "correct_action": "scale"
+  }
+]

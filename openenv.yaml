@@ -1,0 +1,4 @@
+name: ai-ops-env
+version: 1.0
+description: Autonomous AI Ops Environment
+entrypoint: env/env.py
